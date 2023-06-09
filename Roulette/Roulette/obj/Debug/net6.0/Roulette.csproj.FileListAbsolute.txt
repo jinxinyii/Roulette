@@ -1,0 +1,15 @@
+C:\Users\brain\source\repos\Roulette\Roulette\bin\Debug\net6.0\Roulette.exe
+C:\Users\brain\source\repos\Roulette\Roulette\bin\Debug\net6.0\Roulette.deps.json
+C:\Users\brain\source\repos\Roulette\Roulette\bin\Debug\net6.0\Roulette.runtimeconfig.json
+C:\Users\brain\source\repos\Roulette\Roulette\bin\Debug\net6.0\Roulette.dll
+C:\Users\brain\source\repos\Roulette\Roulette\bin\Debug\net6.0\Roulette.pdb
+C:\Users\brain\source\repos\Roulette\Roulette\obj\Debug\net6.0\Roulette.csproj.AssemblyReference.cache
+C:\Users\brain\source\repos\Roulette\Roulette\obj\Debug\net6.0\Roulette.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brain\source\repos\Roulette\Roulette\obj\Debug\net6.0\Roulette.AssemblyInfoInputs.cache
+C:\Users\brain\source\repos\Roulette\Roulette\obj\Debug\net6.0\Roulette.AssemblyInfo.cs
+C:\Users\brain\source\repos\Roulette\Roulette\obj\Debug\net6.0\Roulette.csproj.CoreCompileInputs.cache
+C:\Users\brain\source\repos\Roulette\Roulette\obj\Debug\net6.0\Roulette.dll
+C:\Users\brain\source\repos\Roulette\Roulette\obj\Debug\net6.0\refint\Roulette.dll
+C:\Users\brain\source\repos\Roulette\Roulette\obj\Debug\net6.0\Roulette.pdb
+C:\Users\brain\source\repos\Roulette\Roulette\obj\Debug\net6.0\Roulette.genruntimeconfig.cache
+C:\Users\brain\source\repos\Roulette\Roulette\obj\Debug\net6.0\ref\Roulette.dll
