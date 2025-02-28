@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "I4Lf/hL22XBDNJX4zIFCtz4wYWcEKBh+0nek22mgokUcrEOjIso33ATIpJRDKTXIuTpBxs/pfWWf9Wb72hNBSw==",
+  "dgSpecHash": "cFxCzmag7oQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\brain\\source\\repos\\Roulette\\Roulette\\Roulette.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ederlyn\\Documents\\Roulette\\Roulette\\Roulette\\Roulette.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ederlyn\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ederlyn\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ederlyn\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Ederlyn\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
   "logs": []
 }
